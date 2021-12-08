@@ -6,7 +6,7 @@
 <table>
     <tr>
         <td><img src="https://cdn.auth0.com/blog/NEW-LOGO-WHITE.png" width="100"></td>
-        <td> If you would like to quickly implement a secure authentication flow with Terraform, <a href="https://auth0.com/signup" target="_blank"> create an Auth0 account </a>; it's free. 
+        <td> If you would like to quickly implement a secure authentication flow with Terraform, <a href="https://auth0.com/signup" target="_blank">create an Auth0 account</a>; it's free. 
     </tr>
 </table>
 
